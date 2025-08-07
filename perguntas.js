@@ -1,5 +1,5 @@
 criaCartao(
-    'Plntas',
+    'Biologia',
     'O que é uma flor?',
     'Flor é a estrutura reprodutora característica das plantas angiospérmicas'
 )
@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Química',
+    'O que é a matéria?',
+    'Matéria é tudo aquilo que possui massa e ocupa um lugar no espaço'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'História',
+    'Quem pintou a Mona Lisa?',
+    'Leonardo da Vinci'
 )
