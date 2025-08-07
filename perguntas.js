@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Plntas',
+    'O que é uma flor?',
+    'Flor é a estrutura reprodutora característica das plantas angiospérmicas'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Corpo humano',
+    'Qual o papel do sistema imunológico?',
+    'O sistema imunológico é o sistema de defesa do corpo, responsável por proteger contra doenças e infecções'
 )
 
 criaCartao(
